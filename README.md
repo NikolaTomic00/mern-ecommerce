@@ -7,33 +7,31 @@ A modern full-stack e-commerce application built with the MERN stack, focused on
 The platform allows users to browse products, manage their shopping cart, apply coupon codes, and complete secure payments through Stripe. Administrators can manage products and categories, monitor sales analytics, and control the overall store experience through a dedicated dashboard.
 
 🛠️ Tech Stack
-MongoDB
-Express.js
-React.js
-Node.js
-Tailwind CSS
-JWT Authentication
-Stripe API
-Cloudinary
-
+- MongoDB
+- Express.js
+- React.js
+- Node.js
+- Tailwind CSS
+- JWT Authentication
+- Stripe API
+- Cloudinary
 
 🔥 Key Features
+- 🚀 Project Setup
+- 🗄️ MongoDB & Redis Integration
+- 💳 Stripe Payment Setup
+- 🔐 Robust Authentication System
+- 🔑 JWT with Refresh/Access Tokens
+- 📝 User Signup & Login
+- 🛒 E-Commerce Core
+- 📦 Product & Category Management
+- 🛍️ Shopping Cart Functionality
+- 💰 Checkout with Stripe
+- 🏷️ Coupon Code System
+- 👑 Admin Dashboard
+- 📊 Sales Analytics
+- 🎨 Modern UI with Tailwind CSS
+- 🛒 Smooth Cart & Checkout Process
+- 🔒 Security & Protected Routes
+- 🛡️ Data Protection
 
-🚀 Project Setup
-🗄️ MongoDB & Redis Integration
-💳 Stripe Payment Setup
-🔐 Robust Authentication System
-🔑 JWT with Refresh/Access Tokens
-📝 User Signup & Login
-🛒 E-Commerce Core
-📦 Product & Category Management
-🛍️ Shopping Cart Functionality
-💰 Checkout with Stripe
-🏷️ Coupon Code System
-👑 Admin Dashboard
-📊 Sales Analytics
-🎨 Modern UI with Tailwind CSS
-🛒 Smooth Cart & Checkout Process
-🔒 Security & Protected Routes
-🛡️ Data Protection
-⌛ And much
