@@ -6,7 +6,7 @@ LIVE WEBSITE: https://mern-ecommerce-gas2.onrender.com
 
 A modern full-stack e-commerce application built with the MERN stack, focused on delivering a complete online shopping experience with secure authentication, real-time cart management, online payments, and an advanced admin dashboard.
 
-The platform allows users to browse products, manage their shopping cart, apply coupon codes, and complete secure payments through Stripe. Administrators can manage products and categories, monitor sales analytics, and control the overall store experience through a dedicated dashboard.
+The platform allows users to browse products, manage their shopping cart, apply coupon codes, and complete secure payments through Stripe. Administrators have access to a dedicated admin dashboard where they can manage products and categories, monitor user activity, track sales performance, analyze revenue, and view store analytics through interactive statistics and insights.
 
 🛠️ Tech Stack
 
