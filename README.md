@@ -1,5 +1,7 @@
 <h1 align="center">E-Commerce Store 🛒</h1>
 
+LIVE WEBSITE: https://mern-ecommerce-gas2.onrender.com
+
 ![Demo App](/frontend/public/screenshot-for-readme.png)
 
 A modern full-stack e-commerce application built with the MERN stack, focused on delivering a complete online shopping experience with secure authentication, real-time cart management, online payments, and an advanced admin dashboard.
@@ -7,6 +9,7 @@ A modern full-stack e-commerce application built with the MERN stack, focused on
 The platform allows users to browse products, manage their shopping cart, apply coupon codes, and complete secure payments through Stripe. Administrators can manage products and categories, monitor sales analytics, and control the overall store experience through a dedicated dashboard.
 
 🛠️ Tech Stack
+
 - MongoDB
 - Express.js
 - React.js
@@ -17,6 +20,7 @@ The platform allows users to browse products, manage their shopping cart, apply 
 - Cloudinary
 
 🔥 Key Features
+
 - 🚀 Project Setup
 - 🗄️ MongoDB & Redis Integration
 - 💳 Stripe Payment Setup
@@ -34,4 +38,3 @@ The platform allows users to browse products, manage their shopping cart, apply 
 - 🛒 Smooth Cart & Checkout Process
 - 🔒 Security & Protected Routes
 - 🛡️ Data Protection
-
